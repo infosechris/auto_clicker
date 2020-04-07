@@ -1,3 +1,4 @@
+#This was for personal repetitive click task
 import pyautogui, time
 
 champx = 800
