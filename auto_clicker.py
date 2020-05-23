@@ -1,4 +1,6 @@
+# Coded by Chris Min <infosechris@gmail.com>
 #This was for personal repetitive click task
+
 import pyautogui, time
 
 champx = 800
